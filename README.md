@@ -78,7 +78,7 @@ It represents a Not Null marker on the last_update column
 
 3. How many foreign keys does the "payments" table have? How can you tell?
 
-It has 3. All of the foreign keys light up green when hovering over the payments table.
+It has 3. You can select the foreign keys tab at the bottom and it will show the foreign keys each table has when you double click to select one.
 
 ##### ER Diagram upload
 
